@@ -1,4 +1,4 @@
-# Effects of fluid memory and inertia in the lubrication regime of a Brownian sphere.
+# Quantitative measurement of fluid inertial effects in confined Brownian motion
 
 ## Dependencies
 Alongside the usual numpy, scipy, matplotlib, you would need the publicly available lmfit and jpkfile libraries and the custom TNC.py library (given in the repository).
