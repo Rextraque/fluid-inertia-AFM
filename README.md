@@ -1,4 +1,4 @@
-# Effects of fluid memory and inertia in the lubrication regime of a Brownian sphere.\\
+# Effects of fluid memory and inertia in the lubrication regime of a Brownian sphere.
 
 ## Dependencies
 Alongside the usual numpy, scipy, matplotlib, you would need the publicly available lmfit and jpkfile libraries and the custom TNC.py library (given in the repository).
@@ -9,4 +9,4 @@ The data used to run the code are available on the following link : https://driv
 ## analysis.ipynb
 The data are extracted from the two differents types of files retrieved from the AFM.
 The notebook handles the calibration of the system, determination of the precise distance for the "thermal-curves" files (.jpk-force).
-It then performs the spectral analysis on the traces, fit the PSD with the theory presented in the paper and presents the results.
+It then performs the spectral analysis on the traces, fit the PSD with the theory presented in the paper, and finally presents the results.
